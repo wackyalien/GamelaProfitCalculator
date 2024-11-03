@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/GamelaProfitCalculator/static/css/main.63991810.css",
+    "main.js": "/GamelaProfitCalculator/static/js/main.bb73c60f.js",
+    "static/js/453.93b4fca8.chunk.js": "/GamelaProfitCalculator/static/js/453.93b4fca8.chunk.js",
+    "static/media/gp-coils.jpg": "/GamelaProfitCalculator/static/media/gp-coils.2c255df9e53e7e5416cb.jpg",
+    "index.html": "/GamelaProfitCalculator/index.html",
+    "main.63991810.css.map": "/GamelaProfitCalculator/static/css/main.63991810.css.map",
+    "main.bb73c60f.js.map": "/GamelaProfitCalculator/static/js/main.bb73c60f.js.map",
+    "453.93b4fca8.chunk.js.map": "/GamelaProfitCalculator/static/js/453.93b4fca8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63991810.css",
+    "static/js/main.bb73c60f.js"
+  ]
+}
