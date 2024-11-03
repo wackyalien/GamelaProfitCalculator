@@ -1,0 +1,25 @@
+/* ProfitCalculator.css */
+.fullscreen-container {
+    background-image: url('/public/gp-coils.jpg'); /* Replace with your image path */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; /* Full viewport height */
+    padding: 20px;
+  }
+  
+  .profit-calculator-form {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    padding: 40px;
+    border-radius: 8px;
+    width: 100%;
+    max-width: 500px; /* Limit form width */
+  }
+  
+  .form-group label {
+    color: white; /* Optional: Ensure label text is visible on dark backgrounds */
+  }
+  
